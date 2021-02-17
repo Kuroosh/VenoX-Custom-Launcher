@@ -1,0 +1,16 @@
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\App.g.cs
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher_MarkupCompile.cache
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher_MarkupCompile.lref
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\bin\Debug\VenoX-V-Production-Launcher.exe.config
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\bin\Debug\VenoX-V-Production-Launcher.exe
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\bin\Debug\VenoX-V-Production-Launcher.pdb
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\bin\Debug\NUnrar.dll
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\MainWindow.baml
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher.g.resources
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX_V_Production_Launcher.Properties.Resources.resources
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher.csproj.GenerateResource.cache
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher.csproj.CopyComplete
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher.exe
+C:\Users\Solid_Snake\Documents\[VenoX-Launcher]\VenoX-Custom-Launcher\VenoX-V-Production-Launcher\obj\Debug\VenoX-V-Production-Launcher.pdb

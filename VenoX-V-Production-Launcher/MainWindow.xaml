@@ -1,0 +1,54 @@
+﻿<Window x:Class="VenoX_V_Production_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VenoX_V_Production_Launcher"
+        mc:Ignorable="d"
+        Title="VenoX-V-Launcher" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="files/images/wallpaper.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="41*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Starten" Content="Spiel Starten" HorizontalAlignment="Left" Margin="25,83,0,0" VerticalAlignment="Top" Width="109" Height="32" Grid.Column="1" BorderBrush="#FF252526" Foreground="White" Click="Starten_Click" HorizontalContentAlignment="Center">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF00B9FF"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Teamspeak_Start_BTN" Content="Teamspeak 3" HorizontalAlignment="Left" Margin="25,130,0,0" VerticalAlignment="Top" Width="109" Height="32" Grid.Column="1" BorderBrush="#FF252526" Foreground="White" Click="Teamspeak3_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF00B9FF"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Forum_Start_BTN" Content="Forum" HorizontalAlignment="Left" Margin="25,181,0,0" VerticalAlignment="Top" Width="109" Height="32" Grid.Column="1" BorderBrush="#FF252526" Foreground="White" Click="Forum_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF00B9FF"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Close_BTN" Content="Schließen" HorizontalAlignment="Left" Margin="25,230,0,0" VerticalAlignment="Top" Width="109" Height="32" Grid.Column="1" BorderBrush="#FF252526" Foreground="White" Click="Close_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF00B9FF"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <ProgressBar x:Name="progressBar1" HorizontalAlignment="Left" Height="28" Margin="10,388,0,0" VerticalAlignment="Top" Width="641" ValueChanged="ProgressBar_ValueChanged" BorderBrush="#FF0096C8" Background="#FF00222C" Foreground="#FF0096C8"/>
+        <Label x:Name="Update_Label" Content="Keine Updates verfügbar." HorizontalContentAlignment="Center" Margin="10,388,0,0" VerticalAlignment="Top" Width="641" Foreground="#FFFFFF"/>
+
+    </Grid>
+</Window>
